@@ -16,7 +16,7 @@ Feedback welcome!
 
 ### Configuration
 
-Log in as administrator, and then Edit the CSS to your liking and then paste into the tab at 
+Log in as administrator, and edit the CSS to your liking and then paste into the tab at 
 
 ```
 Administration > Server Settings > Appearance
