@@ -1,15 +1,14 @@
 # dubnation-css
-
 ## CSS for dubnation.social
 
-There is little documentation for how to customize the CSS on Mastodon.
+There is very little documentation for how to customize the CSS on Mastodon.
 
-One example is here:
+One example is here, and the author also had trouble finding good examples. 
 https://battlepenguin.com/tech/using-custom-css-with-mastodon/
 
-This repo has the CSS for dubnation.social
 
-This is an example of adjusting the look of Mastodon to use a new color scheme, without introducing a theme.
+## How to adjust the look of Mastodon without a new theme
+This repo contains an example of how to adjust the look of Mastodon to use a new color scheme, without introducing a theme.
 
 At this time there is only CSS for the dark theme.
 
