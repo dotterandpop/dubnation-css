@@ -17,7 +17,7 @@ Feedback welcome!
 
 ### Configuration
 
-Edit the CSS to your liking and then paste into the tab at 
+Log in as administrator, and then Edit the CSS to your liking and then paste into the tab at 
 
 ```
 Administration > Server Settings > Appearance
@@ -26,7 +26,7 @@ Administration > Server Settings > Appearance
 ### Restart the Web Service
 
 ```
-// phased restart w zero downtime
+// as root. phased restart w zero downtime
 $ systemctl reload mastodon-web		
 ```
 
