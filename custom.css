@@ -1,0 +1,173 @@
+/* color scheme
+
+ 00349A - dubnation blue 
+ FFCC33 - dubnation yellow 
+ 191b22 - dark grey nee black taken from base theme
+ 
+*/
+
+
+/* global div wrappers */
+
+
+.ui, .landing-page, .public-layout {
+  background-color: #00349A;
+}
+
+/* this affects the little strip at the top of the main column */
+
+.tabs-bar__wrapper {
+  background-color: #00349A;
+}
+
+
+/* announcements that appear in the main column */
+
+.dismissable-banner {
+/*  background: #00349A; */
+}
+
+
+/* link navigation */
+
+.column-link {
+  color: #FFCC33;
+  background-color: #00349A;
+}
+
+
+.column-link:hover {
+  background-color: #FFCC33;
+}
+
+/* center column header */
+
+.column-header {
+  background-color: #FFCC33;
+  color: #00349A;
+}
+
+.column-header__button, .column-back-button {
+  background-color: #FFCC33;
+  color: #00349A;
+}
+
+
+.column-header__back-button {
+  background-color: #FFCC33 !important;
+  color: #00349A;
+}
+
+
+
+/* card backgrounds in main scroll area */
+
+.status-public, .activity-stream .entry, .drawer__header {
+  background-color: #191b22; 
+}
+
+
+/* background behind article (cards) flashes while scrolling 191b22 */
+
+article {
+  background-color: #191b22;   
+}
+
+
+/* card heading */
+
+.public-layout .header {
+     background-color:#00349A;
+}
+
+
+/* card footer */
+
+.public-layout .footer {
+     background-color:#00349A;
+}
+
+
+
+
+
+
+/* ========================== */
+/* known good above this line */
+/* ========================== */
+
+
+.public-layout {
+  margin-top: -10px;
+}
+
+.public-layout .header {
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+}
+
+.search-results {
+  background-color: #00349A;
+}
+
+.landing-page__forms {
+     background-color:#00349A;
+}
+
+.landing-page__call-to-action {
+  background-color: #00349A;
+}
+
+
+
+
+.account__header .account__header__fields dt, .public-account-bio .account__header__fields dt,
+  .hero-widget__text, .status.status-direct:not(.read) {
+  background-color: #00349A;
+}
+
+
+/*
+
+.account__header .account__header__fields dd,
+.public-account-bio .account__header__fields dd,
+.drawer__inner, .drawer__inner__mastodon {
+  background-color: #00349A;
+}
+
+*/
+
+
+.landing-page__information {
+  background-color: #00349A;
+}
+
+
+.column > .scrollable {
+  background-color: #00349A;
+}
+
+
+.status-reply {
+  background-color: #00349A;
+}
+
+.detailed-status__action-bar {
+  background-color:#00349A;
+}
+
+
+.getting-started, .public-layout .public-account-bio {
+  background-color: #00349A;
+}
+
+
+.column-subheading, .search-results__header, .search-results__section h5 {
+  background-color: #00349A;
+  color: #FFCC33;
+}
+
+
+
+
+
