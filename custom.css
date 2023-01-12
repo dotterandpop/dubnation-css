@@ -92,13 +92,6 @@ article {
 
 
 
-
-
-/* ========================== */
-/* known good above this line */
-/* ========================== */
-
-
 .public-layout {
   margin-top: -10px;
 }
@@ -150,10 +143,6 @@ article {
 }
 
 
-/* Replies appear in two places - main stream and detail page
-   This is not working as expected so I will not promote it to prod 
-    00FF00 = green, used for testing 
- */
 
 .status-reply {
   background-color: #313543; 
