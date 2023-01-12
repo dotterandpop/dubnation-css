@@ -10,7 +10,7 @@ https://battlepenguin.com/tech/using-custom-css-with-mastodon/
 ## How to adjust the look of Mastodon without a new theme
 This repo contains an example of how to adjust the look of Mastodon to use a new color scheme, without introducing a theme.
 
-At this time there is only CSS for the dark theme.  It seems likely that minor changes to Mastodon could affect the CSS. I had to poke around with browser developer tools to fix a few things. 
+At this time there is only CSS for the dark theme.  It seems likely that minor changes to Mastodon could affect the CSS. I had to poke around with browser developer tools to fix a few things. To minimize issues, always test changes using a development Mastodon instance. 
 
 Feedback welcome!
 
