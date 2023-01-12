@@ -24,7 +24,7 @@ Administration > Server Settings > Appearance
 
 ```
 // phased restart w zero downtime
-reload mastodon-web		
+$ systemctl reload mastodon-web		
 ```
 
 That's all folks! 
