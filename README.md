@@ -18,7 +18,10 @@ Feedback welcome!
 ### Configuration
 
 Edit the CSS to your liking and then paste into the tab at 
+
+```
 Administration > Server Settings > Appearance
+```
 
 ### Restart the Web Service
 
